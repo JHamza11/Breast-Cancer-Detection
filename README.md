@@ -1,4 +1,4 @@
-# Breast-Cancer-Risk-Analysis
+# Breast-Cancer-Analysis-and-Classification
 
 ## Problem Statement
 Breast cancer is the most commonly diagnosed cancer and second leading cancer death among women in the U.S. with 1 in 8 expected to develop it in her lifetime. Its overall death rate has steadily decreased by 1% per year from 2013 to 2018 which has thought to be from treatment advances and earlier detection.
