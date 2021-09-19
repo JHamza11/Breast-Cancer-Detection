@@ -22,6 +22,7 @@ Thus, the goals of this project are to use machine learning classification metho
 * Data Analysis and Visualization
   * Unimodal
   * Multimodal
+* Inferential Statistics
 * Predictive Classification (Currently only SVM is used, however more models will be tested and compared against in the future)
 
 ## Technologies Used
