@@ -6,7 +6,7 @@ Breast cancer is the most commonly diagnosed cancer and second leading cancer de
 Since earlier detection is thought to be a cause in decreasing breast cancer deaths, the predictive model built in this notebook serves as an attempt to fill this purpose as a classification problem. Preliminary analysis is done to make conclusions based on the data and select the best features for predictive accuracy.
 
 ## Description
-Pulled from the [University of California at Irvine Machine Learning Repository’s Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic), cells were measured through a digitized image of a fine needle aspirate (FNA), a biopsy procedure where a sample is collected through inserting a needle. Because all samples contained more than one cell, their physical characteristics were averaged with respect to the amount of cells in the sample.
+Pulled from the [University of California at Irvine Machine Learning Repository’s Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), cells were measured through a digitized image of a fine needle aspirate (FNA), a biopsy procedure where a sample is collected through inserting a needle. Because all samples contained more than one cell, their physical characteristics were averaged with respect to the amount of cells in the sample.
 
 Diagnosis is a categorical variable defined in the data as:
   * B - Benign (non-cancerous)
