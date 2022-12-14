@@ -11,7 +11,8 @@ Pulled from the [University of California at Irvine Machine Learning Repositoryâ
 Diagnosis is a categorical variable defined in the data as:
   * B - Benign (non-cancerous)
   * M - Malignant (cancerous)
-For classification purposes, the data will be transformed such that 0 represents benign and 1 represents malignant.
+
+For classification purposes, the data will be formatted such that 0 represents benign and 1 represents malignant.
 
 Thus, the goal of this project is to use machine learning classification methods to predict which samples are most likely to be benign or malignant.
 
